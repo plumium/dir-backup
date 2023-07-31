@@ -1,0 +1,6 @@
+a/*.md
+
+# comment
+a/**/c/*.txt
+
+**/b/*.png
